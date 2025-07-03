@@ -8,4 +8,3 @@ check_av1.py
 convert_av1_h264.py 
 msp430 receipt.pdf
 cpp_scripts/*.exe
-.gitignore
