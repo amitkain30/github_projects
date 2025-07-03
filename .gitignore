@@ -8,3 +8,8 @@ check_av1.py
 convert_av1_h264.py 
 msp430 receipt.pdf
 cpp_scripts/*.exe
+emb_MSP430/workspace_v10/.jxbrowser-data
+emb_MSP430/workspace_v10/.metadata
+emb_MSP430/workspace_v10/dvt/
+emb_MSP430/workspace_v10/RemoteSystemsTempFiles/
+emb_MSP430/*.pdf
